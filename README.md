@@ -47,6 +47,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Georgi Bojinov, Student - Sofia, Bulgaria
 - Max Morales, Student - El Paso, Texas
 - Yash Agrawal, Student - Himachal Pradesh, India
+- Rindang Ramadhan, Software Developer - Indonesia
 - Nanichang Katzing, Student - Nigeria
 - Kyle Lim, Student - Maryland, USA
 - Holden Oullette, Digital Developer - Las Vegas, Nevada
